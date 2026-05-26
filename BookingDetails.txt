@@ -1,0 +1,4 @@
+Message : Thank you for your purchase today!
+Booking ID : 1779810072587
+Status : PendingCapture
+Amount : 555 USD
